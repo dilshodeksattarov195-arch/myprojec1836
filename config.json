@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailcarse",
+        "uuid": 16114572,
+        "checksum": "ikd7m"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
